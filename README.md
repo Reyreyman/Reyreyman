@@ -20,15 +20,12 @@ rey@github:~$ neofetch
 
 Name          Jericho Rey
 Location      Manila, PH
-Status ...... First-year college student
-Learning .... HTML, CSS, markdown
-Building .... PisoPal (money tracker)
+Status        Part-time college student
 
---- off the clock ---
-Game ........ Genshin Impact
-Watching .... anime, always
-Training .... gym, upper/lower split
-Dream ....... make my own game one day
+--- Hobbies ---
+Gaming        Genshin Impact, Mobile Legends
+Watching      Anime, Reels
+Training      Gym
 ```
 
 </td>
