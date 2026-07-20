@@ -1,19 +1,6 @@
 <div align="center">
 
-​```bash
-rey@github:~$ whoami
-​```
-
-</div>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="ascii-me.svg" width="100%">
-
-</td>
-<td width="50%" valign="top">
+​<td width="50%" valign="top">
 
 ​```bash
 rey@github:~$ neofetch
@@ -32,5 +19,3 @@ Dream ....... make my own game one day
 ​```
 
 </td>
-</tr>
-</table>
