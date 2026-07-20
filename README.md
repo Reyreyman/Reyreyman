@@ -17,12 +17,12 @@ Rey's Profile
 
 ```bash
 
-
+**--- About me ---**
 Name          Jericho Rey
 Location      Manila, PH
 Status        Part-time college student
 
---- Hobbies ---
+**--- Hobbies ---**
 Gaming        Genshin Impact, Mobile Legends
 Watching      Anime, Reels
 Training      Gym
