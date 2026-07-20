@@ -1,7 +1,7 @@
 <div align="center">
 
 ```bash
-rey@github:~$ whoami
+Rey's Profile
 ```
 
 </div>
@@ -18,8 +18,8 @@ rey@github:~$ whoami
 ```bash
 rey@github:~$ neofetch
 
-Name ........ Rey
-Location .... Manila, PH
+Name          Jericho Rey
+Location      Manila, PH
 Status ...... First-year college student
 Learning .... HTML, CSS, markdown
 Building .... PisoPal (money tracker)
