@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 430" width="560" height="430">
+<style>
+text{font-family:'Courier New',monospace;font-size:14px;fill:#e6edf3;white-space:pre;opacity:0;animation:ln .12s steps(1) forwards;}
+@keyframes ln{to{opacity:1;}}
+@media (prefers-color-scheme: light){text{fill:#24292f;}}
+</style>
+<text x="20" y="31" xml:space="preserve" style="animation-delay:0.0s">                             ..                               </text>
+<text x="20" y="46" xml:space="preserve" style="animation-delay:0.07s">                         ...........                          </text>
+<text x="20" y="61" xml:space="preserve" style="animation-delay:0.14s">                       :.:-++==--:....                        </text>
+<text x="20" y="76" xml:space="preserve" style="animation-delay:0.21s">                      ::=##***++==-:....                      </text>
+<text x="20" y="91" xml:space="preserve" style="animation-delay:0.28s">                      .+@#=:+#-::::::...                      </text>
+<text x="20" y="106" xml:space="preserve" style="animation-delay:0.35s">                      .%%*=+#*---:---....                     </text>
+<text x="20" y="121" xml:space="preserve" style="animation-delay:0.42s">                      +@#***+=:-==+=-:...                     </text>
+<text x="20" y="136" xml:space="preserve" style="animation-delay:0.49s">                      @%*+##+-::-----:..                      </text>
+<text x="20" y="151" xml:space="preserve" style="animation-delay:0.56s">                     *@%#*##+--::--:::::                      </text>
+<text x="20" y="166" xml:space="preserve" style="animation-delay:0.63s">                      %@%%#*+=---::::::                       </text>
+<text x="20" y="181" xml:space="preserve" style="animation-delay:0.7s">                       %%#*+==----:::                         </text>
+<text x="20" y="196" xml:space="preserve" style="animation-delay:0.77s">                        %%#*+==---::.                         </text>
+<text x="20" y="211" xml:space="preserve" style="animation-delay:0.84s">                        %%%#+--:::...                         </text>
+<text x="20" y="226" xml:space="preserve" style="animation-delay:0.91s">                       @@#**+=-:::-==                         </text>
+<text x="20" y="241" xml:space="preserve" style="animation-delay:0.98s">          *+    *####%@@@@@#+===+##**                  *      </text>
+<text x="20" y="256" xml:space="preserve" style="animation-delay:1.05s">     %#@%++**#**%@#%@@@@%**++#%@*=++*#*+**#%##%%**%%%#*#+*#+  </text>
+<text x="20" y="271" xml:space="preserve" style="animation-delay:1.12s"> #@@%@##*==++=+*#%+*@#*%%*+##%#%#=+*%#+=*##*%@##@#*@@*%##@#**+</text>
+<text x="20" y="286" xml:space="preserve" style="animation-delay:1.19s">*@%@%%+===+*=+*+#%++%%**@@@@*#%@%++#%#*#*%@##@@%%@%#@##%@%##%#</text>
+<text x="20" y="301" xml:space="preserve" style="animation-delay:1.26s">+**%*++===*+*#**@#=*%@%##@@@+*%@@++*#*##+#@#*%%@%#@%@##@@%%@@@</text>
+<text x="20" y="316" xml:space="preserve" style="animation-delay:1.33s">+++++++-=+**#**%@+*#@%%%%%@@**%%@#=+#**##*%#*##%@%%%%%%@%%%%%@</text>
+<text x="20" y="331" xml:space="preserve" style="animation-delay:1.4s">===+++=-=+##*+*@%+%%@%%%%%%@#*%#@%=+**##%#*#####%@@%##@@#++#@@</text>
+<text x="20" y="346" xml:space="preserve" style="animation-delay:1.47s">==++++-==+#***#@**@%%@%%#%%@%+*#%%+++*##%#+**#*##%@@#*%@%##%%@</text>
+<text x="20" y="361" xml:space="preserve" style="animation-delay:1.54s">==++++===*****#@*%+=@%@%###@@+*###*++#%%##++#***#%%%#++#@%@@@%</text>
+<text x="20" y="376" xml:space="preserve" style="animation-delay:1.61s">=--===-==++++*##+#++###*+++##==+++=-=***+++-+++++**#*=-*@@@%##</text>
+<text x="20" y="391" xml:space="preserve" style="animation-delay:1.68s">++--==:--=++==++=***###**++*%*+***++*%%%#**++##**#%%%#==@%*#%@</text>
+<text x="20" y="406" xml:space="preserve" style="animation-delay:1.75s">===--==+++*****#+###%%%##***%**#****#%%%##**+##**#%%%#=-+==%@@</text>
+</svg>
