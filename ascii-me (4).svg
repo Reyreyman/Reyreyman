@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 579 552" width="579" height="552">
+<style>
+text{font-family:'Courier New',monospace;font-size:12px;fill:#c9d1d9;white-space:pre;opacity:0;}
+@media (prefers-color-scheme: light){text{fill:#24292f;}}
+@keyframes k0{0%,0.0%{opacity:0}0.92%,71.573%{opacity:1}72.493%,75.713%{opacity:0}76.633%,100%{opacity:1}}
+.l0{animation:k0 10.87s linear forwards;}
+@keyframes k1{0%,0.552%{opacity:0}1.472%,71.021%{opacity:1}71.941%,76.265%{opacity:0}77.185%,100%{opacity:1}}
+.l1{animation:k1 10.87s linear forwards;}
+@keyframes k2{0%,1.104%{opacity:0}2.024%,70.469%{opacity:1}71.389%,76.817%{opacity:0}77.737%,100%{opacity:1}}
+.l2{animation:k2 10.87s linear forwards;}
+@keyframes k3{0%,1.656%{opacity:0}2.576%,69.917%{opacity:1}70.837%,77.369%{opacity:0}78.289%,100%{opacity:1}}
+.l3{animation:k3 10.87s linear forwards;}
+@keyframes k4{0%,2.208%{opacity:0}3.128%,69.365%{opacity:1}70.285%,77.921%{opacity:0}78.841%,100%{opacity:1}}
+.l4{animation:k4 10.87s linear forwards;}
+@keyframes k5{0%,2.76%{opacity:0}3.68%,68.813%{opacity:1}69.733%,78.473%{opacity:0}79.393%,100%{opacity:1}}
+.l5{animation:k5 10.87s linear forwards;}
+@keyframes k6{0%,3.312%{opacity:0}4.232%,68.261%{opacity:1}69.181%,79.025%{opacity:0}79.945%,100%{opacity:1}}
+.l6{animation:k6 10.87s linear forwards;}
+@keyframes k7{0%,3.864%{opacity:0}4.784%,67.709%{opacity:1}68.629%,79.577%{opacity:0}80.497%,100%{opacity:1}}
+.l7{animation:k7 10.87s linear forwards;}
+@keyframes k8{0%,4.416%{opacity:0}5.336%,67.157%{opacity:1}68.077%,80.129%{opacity:0}81.049%,100%{opacity:1}}
+.l8{animation:k8 10.87s linear forwards;}
+@keyframes k9{0%,4.968%{opacity:0}5.888%,66.605%{opacity:1}67.525%,80.681%{opacity:0}81.601%,100%{opacity:1}}
+.l9{animation:k9 10.87s linear forwards;}
+@keyframes k10{0%,5.52%{opacity:0}6.44%,66.053%{opacity:1}66.973%,81.233%{opacity:0}82.153%,100%{opacity:1}}
+.l10{animation:k10 10.87s linear forwards;}
+@keyframes k11{0%,6.072%{opacity:0}6.992%,65.501%{opacity:1}66.421%,81.785%{opacity:0}82.705%,100%{opacity:1}}
+.l11{animation:k11 10.87s linear forwards;}
+@keyframes k12{0%,6.624%{opacity:0}7.544%,64.949%{opacity:1}65.869%,82.337%{opacity:0}83.257%,100%{opacity:1}}
+.l12{animation:k12 10.87s linear forwards;}
+@keyframes k13{0%,7.176%{opacity:0}8.096%,64.397%{opacity:1}65.317%,82.889%{opacity:0}83.809%,100%{opacity:1}}
+.l13{animation:k13 10.87s linear forwards;}
+@keyframes k14{0%,7.728%{opacity:0}8.648%,63.845%{opacity:1}64.765%,83.441%{opacity:0}84.361%,100%{opacity:1}}
+.l14{animation:k14 10.87s linear forwards;}
+@keyframes k15{0%,8.28%{opacity:0}9.2%,63.293%{opacity:1}64.213%,83.993%{opacity:0}84.913%,100%{opacity:1}}
+.l15{animation:k15 10.87s linear forwards;}
+@keyframes k16{0%,8.832%{opacity:0}9.752%,62.741%{opacity:1}63.661%,84.545%{opacity:0}85.465%,100%{opacity:1}}
+.l16{animation:k16 10.87s linear forwards;}
+@keyframes k17{0%,9.384%{opacity:0}10.304%,62.19%{opacity:1}63.109%,85.097%{opacity:0}86.017%,100%{opacity:1}}
+.l17{animation:k17 10.87s linear forwards;}
+@keyframes k18{0%,9.936%{opacity:0}10.856%,61.638%{opacity:1}62.557%,85.649%{opacity:0}86.569%,100%{opacity:1}}
+.l18{animation:k18 10.87s linear forwards;}
+@keyframes k19{0%,10.488%{opacity:0}11.408%,61.086%{opacity:1}62.006%,86.201%{opacity:0}87.121%,100%{opacity:1}}
+.l19{animation:k19 10.87s linear forwards;}
+@keyframes k20{0%,11.04%{opacity:0}11.96%,60.534%{opacity:1}61.454%,86.753%{opacity:0}87.672%,100%{opacity:1}}
+.l20{animation:k20 10.87s linear forwards;}
+@keyframes k21{0%,11.592%{opacity:0}12.511%,59.982%{opacity:1}60.902%,87.305%{opacity:0}88.224%,100%{opacity:1}}
+.l21{animation:k21 10.87s linear forwards;}
+@keyframes k22{0%,12.144%{opacity:0}13.063%,59.43%{opacity:1}60.35%,87.856%{opacity:0}88.776%,100%{opacity:1}}
+.l22{animation:k22 10.87s linear forwards;}
+@keyframes k23{0%,12.695%{opacity:0}13.615%,58.878%{opacity:1}59.798%,88.408%{opacity:0}89.328%,100%{opacity:1}}
+.l23{animation:k23 10.87s linear forwards;}
+@keyframes k24{0%,13.247%{opacity:0}14.167%,58.326%{opacity:1}59.246%,88.96%{opacity:0}89.88%,100%{opacity:1}}
+.l24{animation:k24 10.87s linear forwards;}
+@keyframes k25{0%,13.799%{opacity:0}14.719%,57.774%{opacity:1}58.694%,89.512%{opacity:0}90.432%,100%{opacity:1}}
+.l25{animation:k25 10.87s linear forwards;}
+@keyframes k26{0%,14.351%{opacity:0}15.271%,57.222%{opacity:1}58.142%,90.064%{opacity:0}90.984%,100%{opacity:1}}
+.l26{animation:k26 10.87s linear forwards;}
+@keyframes k27{0%,14.903%{opacity:0}15.823%,56.67%{opacity:1}57.59%,90.616%{opacity:0}91.536%,100%{opacity:1}}
+.l27{animation:k27 10.87s linear forwards;}
+@keyframes k28{0%,15.455%{opacity:0}16.375%,56.118%{opacity:1}57.038%,91.168%{opacity:0}92.088%,100%{opacity:1}}
+.l28{animation:k28 10.87s linear forwards;}
+@keyframes k29{0%,16.007%{opacity:0}16.927%,55.566%{opacity:1}56.486%,91.72%{opacity:0}92.64%,100%{opacity:1}}
+.l29{animation:k29 10.87s linear forwards;}
+@keyframes k30{0%,16.559%{opacity:0}17.479%,55.014%{opacity:1}55.934%,92.272%{opacity:0}93.192%,100%{opacity:1}}
+.l30{animation:k30 10.87s linear forwards;}
+@keyframes k31{0%,17.111%{opacity:0}18.031%,54.462%{opacity:1}55.382%,92.824%{opacity:0}93.744%,100%{opacity:1}}
+.l31{animation:k31 10.87s linear forwards;}
+@keyframes k32{0%,17.663%{opacity:0}18.583%,53.91%{opacity:1}54.83%,93.376%{opacity:0}94.296%,100%{opacity:1}}
+.l32{animation:k32 10.87s linear forwards;}
+@keyframes k33{0%,18.215%{opacity:0}19.135%,53.358%{opacity:1}54.278%,93.928%{opacity:0}94.848%,100%{opacity:1}}
+.l33{animation:k33 10.87s linear forwards;}
+@keyframes k34{0%,18.767%{opacity:0}19.687%,52.806%{opacity:1}53.726%,94.48%{opacity:0}95.4%,100%{opacity:1}}
+.l34{animation:k34 10.87s linear forwards;}
+@keyframes k35{0%,19.319%{opacity:0}20.239%,52.254%{opacity:1}53.174%,95.032%{opacity:0}95.952%,100%{opacity:1}}
+.l35{animation:k35 10.87s linear forwards;}
+@keyframes k36{0%,19.871%{opacity:0}20.791%,51.702%{opacity:1}52.622%,95.584%{opacity:0}96.504%,100%{opacity:1}}
+.l36{animation:k36 10.87s linear forwards;}
+@keyframes k37{0%,20.423%{opacity:0}21.343%,51.15%{opacity:1}52.07%,96.136%{opacity:0}97.056%,100%{opacity:1}}
+.l37{animation:k37 10.87s linear forwards;}
+@keyframes k38{0%,20.975%{opacity:0}21.895%,50.598%{opacity:1}51.518%,96.688%{opacity:0}97.608%,100%{opacity:1}}
+.l38{animation:k38 10.87s linear forwards;}
+@keyframes k39{0%,21.527%{opacity:0}22.447%,50.046%{opacity:1}50.966%,97.24%{opacity:0}98.16%,100%{opacity:1}}
+.l39{animation:k39 10.87s linear forwards;}
+</style>
+<text class="l0" x="16" y="26" xml:space="preserve">                               **++++                                       </text>
+<text class="l1" x="16" y="39" xml:space="preserve">                          ++++====--======++*                               </text>
+<text class="l2" x="16" y="52" xml:space="preserve">                       +===+=-:--::::::::--==++*                            </text>
+<text class="l3" x="16" y="65" xml:space="preserve">                      ++==-=::--=-----::::-:-===+*                          </text>
+<text class="l4" x="16" y="78" xml:space="preserve">                     **==--+*#####*##*+++++=---==++#                        </text>
+<text class="l5" x="16" y="91" xml:space="preserve">                    *#==+*#@@@@%%%%%%%%####*+=---==+*                       </text>
+<text class="l6" x="16" y="104" xml:space="preserve">                   #%=:#%@@@@@@%%%%%@@%%%%%%#*+=---==+#                     </text>
+<text class="l7" x="16" y="117" xml:space="preserve">                  +%+=%@@%%######%%###*+==+**#**+=--==++                    </text>
+<text class="l8" x="16" y="130" xml:space="preserve">                 ===-@@@@@%%####%%#**+++++++++++*+=----=+                   </text>
+<text class="l9" x="16" y="143" xml:space="preserve">                 =--#@@@@@#+=-=#@@%*==+##%##**+++*+-----+#                  </text>
+<text class="l10" x="16" y="156" xml:space="preserve">                 =-=@@@@*+::::=%@@%*==+-=-::--=++*+=----*@                  </text>
+<text class="l11" x="16" y="169" xml:space="preserve">                 =-*@@@%%%###%@@@%#**+***++++==+***+----=*                  </text>
+<text class="l12" x="16" y="182" xml:space="preserve">                 -:%@@@%%%%%%@@@@*++**#####%%%%##***=----+                  </text>
+<text class="l13" x="16" y="195" xml:space="preserve">                 :+@@@%%#***%*:-##=::=*+*########***=---=*                  </text>
+<text class="l14" x="16" y="208" xml:space="preserve">                 -@@@@%#*#%%%%%%#%##*****####*******=---+*                  </text>
+<text class="l15" x="16" y="221" xml:space="preserve">                 #@@@%#%%@@@@%##*+++*****##*********+---+                   </text>
+<text class="l16" x="16" y="234" xml:space="preserve">                 @@@@%*%*=*#%%%##**====++**+**+***+*++++                    </text>
+<text class="l17" x="16" y="247" xml:space="preserve">                =@@@@@##++#@@@%##***++=-=++***+**+++++***                   </text>
+<text class="l18" x="16" y="260" xml:space="preserve">                %@@@@@%%%%@@%%##*****************++++=*#*                   </text>
+<text class="l19" x="16" y="273" xml:space="preserve">                %@@@@@@@@%@@%%%##**********+++**++++*##%#                   </text>
+<text class="l20" x="16" y="286" xml:space="preserve">                 #@@@@@@@@@%%%##*****++**+++++***+++**#*                    </text>
+<text class="l21" x="16" y="299" xml:space="preserve">                  @@@@@@@@%%###**********+++++++++++                        </text>
+<text class="l22" x="16" y="312" xml:space="preserve">                   @@@@@%%####*************+++**+++                         </text>
+<text class="l23" x="16" y="325" xml:space="preserve">                    %@@%%%%%###*#**************++++                         </text>
+<text class="l24" x="16" y="338" xml:space="preserve">                     #@@%%%%%####*#*********++++++                          </text>
+<text class="l25" x="16" y="351" xml:space="preserve">                      @@@%%@@%##**********++++++++                          </text>
+<text class="l26" x="16" y="364" xml:space="preserve">                      @@@@@@@%%#*****+++++++++==++                          </text>
+<text class="l27" x="16" y="377" xml:space="preserve">                     *@@@@@%%%%#**+++++++++====+=-+%#+                      </text>
+<text class="l28" x="16" y="390" xml:space="preserve">                   %@@%%%@@%%%###**++++++++===--=+%@%%                      </text>
+<text class="l29" x="16" y="403" xml:space="preserve">                   @@@@%####%%####**+++++++==+#%@@%%#%                      </text>
+<text class="l30" x="16" y="416" xml:space="preserve">                   #@@@@@@%*****###****+++*#@@@%%####%                      </text>
+<text class="l31" x="16" y="429" xml:space="preserve">            %@@#@@@@@@@@@@@@@%*++++++++*%@@@@%#########@%%%%@@@@%%@@@@@@%@%%</text>
+<text class="l32" x="16" y="442" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%****#%%%%%%%%%%%##%%%@@@%%@@@@@@@@@@@@@@@@@@</text>
+<text class="l33" x="16" y="455" xml:space="preserve">@@%##%@@@%@@%@@@@@@@@@@@@@%%*=+*#%%@@@@%+*******#%%@@@####%%%@@@@@@%@@@@@@*#</text>
+<text class="l34" x="16" y="468" xml:space="preserve">##*#%@@@##@#@@@@%%%@@#*+=---+*+#%%%@@@@@*+**######%%#*=*%##%%%%@@@@%#%%@@@%%</text>
+<text class="l35" x="16" y="481" xml:space="preserve">*#%@%@@@#%%*@@@@##%@@@@%*+*#@@##@@@@%%@@*+**####%%@%#*+=*********##@@%####@@</text>
+<text class="l36" x="16" y="494" xml:space="preserve">*#%##%@%%#=+#%@%*++*%%%@@#**%@%@@@@%##@@%+***##%@@@@%#%**%%@@@@%#%@@@@@%%@@@</text>
+<text class="l37" x="16" y="507" xml:space="preserve">*%#++#@@@*+**%@@@%***%@@@@@%@@@%%##%%@@@@*###%@@@@@%##%%*%@@@@@@%#%@@@@@%%%@</text>
+<text class="l38" x="16" y="520" xml:space="preserve">@%##%@@@%+###@@@@@%%%%@@@@@@@@#=##@@@@@@@**#*#%@@@%###%@%+#%@@@@%##%@@@@@%%%</text>
+<text class="l39" x="16" y="533" xml:space="preserve">%###%@@@*+###%@@@@@%#%%@@@@@@@%=*%@%%@@@@%*#**#%@%%##%%@@*+%@@@@%##%%%@@@@@%</text>
+</svg>
