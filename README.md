@@ -16,7 +16,7 @@ Rey's Profile
 <td width="50%" valign="top">
 
 ```bash
-rey@github:~$ neofetch
+
 
 Name          Jericho Rey
 Location      Manila, PH
