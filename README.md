@@ -30,7 +30,7 @@ Gaming        Genshin Impact, Mobile Legends
 Watching      Anime, Reels
 Training      Gym
 ​```
-
+ 
 </td>
 </tr>
 </table>
