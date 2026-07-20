@@ -1,7 +1,7 @@
 <div align="center">
 
 ```bash
-Rey's Profile
+rey@github:~$ whoami
 ```
 
 </div>
@@ -17,19 +17,19 @@ Rey's Profile
 
 ### About me
 
-​```
+```
 Name          Jericho Rey
 Location      Manila, PH
 Status        Part-time college student
-​```
+```
 
 ### Hobbies
 
-​```
+```
 Gaming        Genshin Impact, Mobile Legends
 Watching      Anime, Reels
 Training      Gym
-​```
+```
 
 </td>
 </tr>
