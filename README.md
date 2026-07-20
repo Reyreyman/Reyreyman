@@ -1,8 +1,21 @@
 <div align="center">
 
-​<td width="50%" valign="top">
+```bash
+rey@github:~$ whoami
+```
 
-​```bash
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="ascii-me.svg" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
+```bash
 rey@github:~$ neofetch
 
 Name ........ Rey
@@ -16,6 +29,8 @@ Game ........ Genshin Impact
 Watching .... anime, always
 Training .... gym, upper/lower split
 Dream ....... make my own game one day
-​```
+```
 
 </td>
+</tr>
+</table>
