@@ -1,7 +1,7 @@
 <div align="center">
 
 ```bash
-rey@github:~$ whoami
+Rey's profile
 ```
 
 </div>
